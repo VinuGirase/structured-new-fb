@@ -33,7 +33,7 @@ function shuffleArray(array) {
                                     <p class="datetime">${item.date_time}</p>
                                 </div>
                         
-                                <a href="#"><i class="fas fa-ellipsis-v"></i></a>
+                              
                             </div>
                         </div>
     
